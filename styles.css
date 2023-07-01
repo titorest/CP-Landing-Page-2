@@ -39,8 +39,6 @@ h1 {
 
 .banner {
     height: 86vh;
-    border-radius: 10px;    
-    background-repeat: no-repeat;    
     flex-flow: column;
     display: flex;
     justify-content: space-around;
