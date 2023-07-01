@@ -26,6 +26,8 @@ body {
 
 header {
     border-bottom: 1px solid #979797;
+    width: 99%;
+    margin: 0 auto;
 }
 
 h1 {
@@ -136,9 +138,10 @@ button {
 footer {
     border-top: 1px solid #979797;
     justify-content: space-between;
-    margin: .5rem auto;
+    width: 99%;
+    margin: 0 auto;
     letter-spacing: .1rem;
-    padding-left: 1%;
+    padding-left: .5%;
     padding-bottom: .01%;
     padding-top: .375%;
 } 
