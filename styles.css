@@ -1,12 +1,9 @@
-
-
 /* Global */
 
 html {
     font-size: 16px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fff;
-        
+    background-color: #fff;        
 }
 
 * {
@@ -19,7 +16,6 @@ body {
     margin: 0 1rem;
     padding: 0;
 }
-
 
 
 /* Header */
@@ -40,13 +36,10 @@ h1 {
     letter-spacing: .5rem;
 }
 
-
 /* Main */
 
-
 .banner {
-    height: 86vh;
-    /*background-image: url('https://blog.saginfotech.com/wp-content/uploads/2018/10/big-relief-exporters.jpg');*/    
+    height: 88vh;    
     border-radius: 10px;    
     background-repeat: no-repeat;    
     flex-flow: column;
@@ -55,9 +48,6 @@ h1 {
 }
 
 .content-center {
-    /*background: -webkit-linear-gradient(45deg, indigo 0%, #234470 37.25%, midnightblue 100%);*/
-
-    /*background-image: url('https://blog.saginfotech.com/wp-content/uploads/2018/10/big-relief-exporters.jpg');*/
     background-image: url("./banner-3.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -72,7 +62,6 @@ h1 {
         font-weight: 600;
         letter-spacing: 0.03rem;
         line-height: 3rem;
-        /*background: -webkit-linear-gradient(190deg, indigo 0%, #234470 37.25%, midnightblue 100%);*/
         opacity: .8;
         padding: 0 10rem;
         background-color: midnightblue;
@@ -89,7 +78,6 @@ h1 {
 .contactForm {
     display: flex;
     flex-flow: column;
-    /*background: -webkit-linear-gradient(125deg, indigo 0%, #234470 37.25%, midnightblue 100%);*/
     border: 1px solid #979797;
     border-radius: 10px;
     color: #fff;
